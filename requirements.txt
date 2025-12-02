@@ -1,4 +1,3 @@
-# os
 pandas
 numpy
 requests
@@ -8,5 +7,10 @@ xgboost
 joblib
 matplotlib
 seaborn
-jupyter
-glob
+lightgbm 
+catboost
+streamlit 
+plotly 
+fastapi 
+uvicorn 
+pydantic
